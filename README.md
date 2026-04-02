@@ -61,7 +61,7 @@ A complete e-commerce website for selling premium scented candle jars, built wit
 
 - **Company Name**: MAPLE CHARM LLC
 - **Website**: maplecharmgift.com
-- **Email**: contact@rosellethreadstudio.com
+- **Email**: contact@maplecharmgift.com
 - **Address**: 1001 S MAIN ST STE 600 KALISPELL, MT 59901-1498
 - **Business Hours**: 9 AM - 5 PM (Monday - Friday)
 - **Currency**: USD
@@ -181,5 +181,5 @@ The website is fully responsive and works on:
 ## Support
 
 For any questions or issues with the website, please contact:
-- Email: contact@rosellethreadstudio.com
+- Email: contact@maplecharmgift.com
 - Website: maplecharmgift.com
